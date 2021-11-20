@@ -1,4 +1,4 @@
-Colors :D
+Colors for embed messages
 
 Name                         | Int value | Hex Code
 -----------------------------|:-----------:|:-----------:
